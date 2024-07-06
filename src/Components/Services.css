@@ -1,0 +1,9 @@
+.Webcard{
+
+    border: 2px rgba(100, 103, 255, 0.712) solid;
+    box-shadow: 1px 1px 10px 6px rgba(100, 103, 255, 0.712)  ;
+}
+
+.webtext{
+    color:rgb(74, 77, 255)  ;
+}
